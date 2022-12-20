@@ -70,7 +70,7 @@ count of Instagram influencers in different countries using barchart.
 ● Total Likes
 
 5. Describe the relationship between the following pairs of features using a suitable graph
-6. 
+
 ● Followers and Total Likes
 
 ● Followers and Influence Score
