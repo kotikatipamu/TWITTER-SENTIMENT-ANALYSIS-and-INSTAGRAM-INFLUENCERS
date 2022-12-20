@@ -63,6 +63,7 @@ coefficient of the pair of features which are highly correlated.
 3. Which country houses the highest number of Instagram Influencers? Please show the
 count of Instagram influencers in different countries using barchart.
 4. Who are the top 10 influencers in the given dataset based on the following features
+
 ● Followers
 
 ● Average likes
