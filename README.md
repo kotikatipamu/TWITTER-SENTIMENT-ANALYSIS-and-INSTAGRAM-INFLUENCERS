@@ -64,11 +64,17 @@ coefficient of the pair of features which are highly correlated.
 count of Instagram influencers in different countries using barchart.
 4. Who are the top 10 influencers in the given dataset based on the following features
 ● Followers
+
 ● Average likes
+
 ● Total Likes
+
 5. Describe the relationship between the following pairs of features using a suitable graph
+6. 
 ● Followers and Total Likes
+
 ● Followers and Influence Score
 
 ● Posts and Average likes
+
 ● Posts and Influence Score
